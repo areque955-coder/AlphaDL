@@ -1,0 +1,52 @@
+{
+  "job_id": "api_45966fb95d6449a29e0659ac",
+  "mode": "zip_split",
+  "file_url": "https://free-dl4.myalphadl.com/gbGNuD_ZHGUsYp0XFJYvkg/Vikings.S01E05.1080p.10bit.BRRip.5.1.x265.MZABI..mkv",
+  "suggested_filename": "Vikings.S01E05.1080p.10bit.BRRip.5.1.x265.MZABI..mkv",
+  "total_size_bytes": 731836798,
+  "created_at_utc": "2026-05-28T02:00:25.930979+00:00",
+  "zip_folder": "jobs/api_45966fb95d6449a29e0659ac/zip",
+  "zip_main_file": "Vikings.S01E05.1080p.10bit.BRRip.5.1.x265.MZABI_split.zip",
+  "zip_parts": [
+    {
+      "name": "Vikings.S01E05.1080p.10bit.BRRip.5.1.x265.MZABI_split.z01",
+      "path": "jobs/api_45966fb95d6449a29e0659ac/zip/Vikings.S01E05.1080p.10bit.BRRip.5.1.x265.MZABI_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Vikings.S01E05.1080p.10bit.BRRip.5.1.x265.MZABI_split.z02",
+      "path": "jobs/api_45966fb95d6449a29e0659ac/zip/Vikings.S01E05.1080p.10bit.BRRip.5.1.x265.MZABI_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Vikings.S01E05.1080p.10bit.BRRip.5.1.x265.MZABI_split.z03",
+      "path": "jobs/api_45966fb95d6449a29e0659ac/zip/Vikings.S01E05.1080p.10bit.BRRip.5.1.x265.MZABI_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Vikings.S01E05.1080p.10bit.BRRip.5.1.x265.MZABI_split.z04",
+      "path": "jobs/api_45966fb95d6449a29e0659ac/zip/Vikings.S01E05.1080p.10bit.BRRip.5.1.x265.MZABI_split.z04",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Vikings.S01E05.1080p.10bit.BRRip.5.1.x265.MZABI_split.z05",
+      "path": "jobs/api_45966fb95d6449a29e0659ac/zip/Vikings.S01E05.1080p.10bit.BRRip.5.1.x265.MZABI_split.z05",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Vikings.S01E05.1080p.10bit.BRRip.5.1.x265.MZABI_split.z06",
+      "path": "jobs/api_45966fb95d6449a29e0659ac/zip/Vikings.S01E05.1080p.10bit.BRRip.5.1.x265.MZABI_split.z06",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Vikings.S01E05.1080p.10bit.BRRip.5.1.x265.MZABI_split.z07",
+      "path": "jobs/api_45966fb95d6449a29e0659ac/zip/Vikings.S01E05.1080p.10bit.BRRip.5.1.x265.MZABI_split.z07",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Vikings.S01E05.1080p.10bit.BRRip.5.1.x265.MZABI_split.zip",
+      "path": "jobs/api_45966fb95d6449a29e0659ac/zip/Vikings.S01E05.1080p.10bit.BRRip.5.1.x265.MZABI_split.zip",
+      "size_bytes": 71234176
+    }
+  ]
+}
